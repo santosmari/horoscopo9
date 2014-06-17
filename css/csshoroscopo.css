@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+#content
+{	width:100%;
+	height:1000px;
+	border-style:ridge;
+	border-width:thick;
+	border-color: #309;
+	background-color: #ccffff;}
+	
+#introhoroscopo
+{width:80%;height:500px;vertical-align:middle;text-align:justify;
+	color:#36F;
+	font-size:15px;
+	text-height:font-size;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:20px; margin-left:5%}
+#divhoroscopo1 {width:65% ; height:450px ; background-color: #3CC; float:left}
+#divhoroscopo2 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divhoroscopo3 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divhoroscopo4 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divhoroscopo5 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divhoroscopo6 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divhoroscopo7 {width:65% ;height:450px; background-color: #3CC; float:left}
+#divhoroscopo8 {width:65%; height:500px ; background-color: #3CC; float:left}
+#divhoroscopo9 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divhoroscopo10 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divhoroscopo11 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divhoroscopo12 {width:65% ;height:450px ; background-color: #3CC; float:left}
+#divrata
+{width:90%;
+	height:750px;
+	font-size:15px;
+	border-style:ridge;
+	border-width:thick;
+	border-color: #309;
+	background-color: #FCF;
+	text-align:justify;
+	text-height:font-size;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:10px;}
+#divpapel {background-color: #FF3 ; width:500px ; margin-left:50px; -webkit-border-top-left-radius:5px; -webkit-border-top-right-radius:5px;-webkit-border-bottom-left-radius:5px;
+-webkit-border-bottom-right-radius:5px;}
+#divrata1 {width:100% ; background-color: #33F ; float:left }
+#divsubtitulo1 {width:45% ; margin: 10px ;height:200px ; background-color: #CF6 ; float:left }
+#divsubtitulo2 {width:45%; margin: 10px ;height:200px ; background-color: #0F9 ; float:left }
+#divsubtitulo3 {width:90% ; margin: 10px ;height:1000px ; background-color: #FFC  ; float:left }
+#divtexto1 { width:90% ;height:100px ; margin-left:10px ; margin-right:5px ; background-color: #CFF }
+#divtexto2 { width:90% ;height:100px ; margin-left:5px; margin-right:5px ; background-color: #ccffcc }
+#divtexto3 { width:95% ; margin-left:30px; margin-right:5px ; background-color:#F9C }
+
+
+#divlalista {text-align: right; font-size:15px; font-family:Tahoma, Geneva, sans-serif; margin-left:60%;}
+	#divlista1 {background-color: #FF3 ; width:80% ; margin-left:30px; -webkit-border-top-left-radius:10px;
+-webkit-border-top-right-radius:10px;
+-webkit-border-bottom-left-radius:10px;
+-webkit-border-bottom-right-radius:10px;}
+
+	
+#divmetal { width:100px ; height:50px ;margin-left:5px ; margin-right:5px ; background-color: #99FFFF }
+#divagua { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #FFFF99 }
+#divmadera { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #ffcccc}
+#divfuego { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #99FFFF }
+#divtierra { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #ccffff}
+#divmetal2{ width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #dddddd }
+#divagua2 { width:100px ; height:50px ;margin-left:5px ; margin-right:5px ; background-color: #ccffcc }
+#divmadera2 { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #ccccff }
+#divfuego2 { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #bbbbbb}
+#divtierra2 { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #66ffff }
+#divlist11 { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #CFF}
+#divlist12 { width:100px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #3FF }
+#divsubmetal1 {width:110px ; margin: 10px ;height:150px ; background-color: #66FFCC ; float:left }
+#divsubagua1 {width:110px ; margin: 10px ;height:150px ; background-color: #ff9933 ; float:left }
+#divsubmadera1 {width:110px ; margin: 10px ;height:150px ; background-color: #ccffff  ; float:left }
+#divsubfuego1 {width:110px ; margin: 10px ;height:150px ; background-color: #ff99cc ; float:left }
+#divsubtierra1 {width:110px ; margin: 10px ;height:150px ; background-color: #ffccff ; float:left }
+#divsubmetal2 {width:110px ; margin: 10px ;height:150px ; background-color: #66ffff ; float:left }
+#divsubagua2 {width:110px ; margin: 10px ;height:150px ; background-color: #ccffff ; float:left }
+#divsubmadera2 {width:110px ; margin: 10px ;height:150px ; background-color: #ffcccc ; float:left }
+#divsubfuego2 {width:110px ; margin: 10px ;height:150px ; background-color: #99ff99 ; float:left }
+#divsubtierra2 {width:110px ; margin: 10px ;height:150px ; background-color: #cc99cc ; float:left }
+#divsub {width:200px ; margin: 10px ;height:200px ; background-color: #0F9 ; float:left }
+#divsub {width:200px ; margin: 10px ;height:200px ; background-color: #0F9 ; float:left }
+#divsub {width:200px ; margin: 10px ;height:200px ; background-color: #0F9 ; float:left }
+
+
+
+
+
+
+#divintrorata { width:95% ; height:200px ;margin-left:5px ; margin-right:5px ; background-color: #6FC   }
+#divintrobuey { width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC}
+#divintrotigre {  width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC}
+#divintroconejo {  width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC }
+#divintrodragon {  width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC }
+#divintroserpiente {  width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC }
+#divintrocaballo { width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC }
+#divintrocabra { width:95% ; height:230px ;margin-left:5px ; margin-right:5px ; background-color: #6FC}
+#divintromono { width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC }
+#divintrogallo {  width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC }
+#divintroperro { width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC }
+#divintrocerdo {  width:290px ; height:100px ;margin-left:5px ; margin-right:5px ; background-color: #6FC }
+
+
+
+
+
+
+
